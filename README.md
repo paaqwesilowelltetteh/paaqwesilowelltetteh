@@ -26,10 +26,10 @@
 #### Backend
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel" width="40" height="40"/>
-  <img src="[https://user-images.githubusercontent.com/1915268/100947402-df6d8e80-34d8-11eb-90cb-05e407ccabf6.png](https://avatars.githubusercontent.com/u/51960834?s=48&v=4)" alt="Livewire" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/51960834?s=48&v=4" alt="Livewire" width="40" height="40"/>
 </p>
 
-
+https://avatars.githubusercontent.com/u/51960834?s=48&v=4
 
 
 <!---
