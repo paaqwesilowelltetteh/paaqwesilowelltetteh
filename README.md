@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nuxt/nuxt.png" alt="Nuxt.js" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="TailwindCSS" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/alpine/alpine.png" alt="Alpine.js" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
+  <img src="https://alpinejs.dev/alpine_long.svg" alt="Alpine.js" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
 </p>
 
 #### Backend
