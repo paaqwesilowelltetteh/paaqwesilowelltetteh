@@ -16,6 +16,9 @@
 
 #### Frontend
 <p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue.js" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nuxt/nuxt.png" alt="Nuxt.js" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="TailwindCSS" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
