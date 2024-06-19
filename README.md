@@ -12,7 +12,7 @@
 
 - 📫 How to reach me via email at paaqwesilowell@gmail.com or connect with me on LinkedIn at [LinkedIn Profile](https://www.linkedin.com/in/enoch-tetteh-b1b6371bb/).
 
-### Technologies
+### 💻 Technologies
 
 #### Frontend
 <p>
