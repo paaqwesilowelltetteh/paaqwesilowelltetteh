@@ -15,19 +15,17 @@
 ### Technologies
 
 #### Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nuxt/nuxt.png" alt="Nuxt.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/alpine/alpine.png" alt="Alpine.js" width="40" height="40"/>
-</p>
+- ![Vue.js](https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png) **Vue.js**
+- ![Nuxt.js](https://raw.githubusercontent.com/github/explore/main/topics/nuxt/nuxt.png) **Nuxt.js**
+- ![TailwindCSS](https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png) **TailwindCSS**
+- ![Bootstrap](https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png) **Bootstrap**
+- ![Alpine.js](https://raw.githubusercontent.com/github/explore/main/topics/alpine/alpine.png) **Alpine.js**
 
 #### Backend
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/1915268/100947402-df6d8e80-34d8-11eb-90cb-05e407ccabf6.png" alt="Livewire" width="40" height="40"/>
-</p>
+- ![Laravel](https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png) **Laravel**
+- ![Livewire](https://user-images.githubusercontent.com/1915268/100947402-df6d8e80-34d8-11eb-90cb-05e407ccabf6.png) **Livewire**
+
+
 
 <!---
 paaqwesilowelltetteh/paaqwesilowelltetteh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
