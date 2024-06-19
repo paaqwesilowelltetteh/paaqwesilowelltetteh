@@ -30,6 +30,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
   <img src="https://avatars.githubusercontent.com/u/51960834?s=48&v=4" alt="Livewire" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
+  <img src="https://avatars.githubusercontent.com/u/80154025?s=48&v=4" alt="Nitro Server" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
 </p>
 
 <!---
