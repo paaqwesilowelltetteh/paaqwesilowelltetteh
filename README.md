@@ -33,6 +33,12 @@
   <img src="https://avatars.githubusercontent.com/u/80154025?s=48&v=4" alt="Nitro Server" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paaqwesilowelltetteh)](https://github.com/anuraghazra/github-readme-stats)
+
+    
+
+
+
 <!---
 paaqwesilowelltetteh/paaqwesilowelltetteh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
