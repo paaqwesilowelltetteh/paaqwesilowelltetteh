@@ -28,7 +28,7 @@
   <img src="https://avatars.githubusercontent.com/u/51960834?s=48&v=4" alt="Livewire" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
   <img src="https://avatars.githubusercontent.com/u/80154025?s=48&v=4" alt="Nitro Server" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
     <img src="https://avatars.githubusercontent.com/u/10251060?s=48&v=4" alt="Postman" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
-    <img src="[https://avatars.githubusercontent.com/u/80154025?s=48&v=4](https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png)" alt="Nitro Server" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
+    <img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
     
     
 
