@@ -14,7 +14,7 @@
 
 ### 💻 Technologies
 
-#### Frontend
+#### Tools and languages
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
@@ -24,14 +24,15 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="TailwindCSS" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
   <img src="https://alpinejs.dev/alpine_long.svg" alt="Alpine.js" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
-</p>
-
-#### Backend
-<p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
   <img src="https://avatars.githubusercontent.com/u/51960834?s=48&v=4" alt="Livewire" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
   <img src="https://avatars.githubusercontent.com/u/80154025?s=48&v=4" alt="Nitro Server" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
+    <img src="[https://avatars.githubusercontent.com/u/80154025?s=48&v=4](https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667)" alt="Postman" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
+
 </p>
+
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paaqwesilowelltetteh&stroke=ffffff&background=1c1917&ring=04b4ac&fire=04b4ac&currStreakNum=ffffff&currStreakLabel=04b4ac&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="paaqwesilowelltetteh" /></p>
 
