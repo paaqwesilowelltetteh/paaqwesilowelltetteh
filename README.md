@@ -35,9 +35,6 @@
 
 [![Enoch's GitHub stats](https://github-readme-stats.vercel.app/api?username=paaqwesilowelltetteh)](https://github.com/paaqwesilowelltetteh/github-readme-stats)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paaqwesilowelltetteh&stroke=ffffff&background=1c1917&ring=04b4ac&fire=04b4ac&currStreakNum=ffffff&currStreakLabel=04b4ac&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="paaqwesilowelltetteh" /></p>
-
 <p><a href="http://www.github.com/paaqwesilowelltetteh"><img src="https://github-readme-activity-graph.vercel.app/graph?username=paaqwesilowelltetteh&bg_color=1c1917&color=ffffff&line=04b4ac&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paaqwesilowelltetteh&size_weight=0.5&count_weight=0.5&layout=donut-vertical&bg_color=1c1917&text_color=ffffff&title_color=ffffff&hide_border=true)](https://github.com/paaqwesilowelltetteh)
