@@ -10,7 +10,9 @@
 
 - 💞️ I’m looking to collaborate on web development projects, building dynamic web applications, and contributing to open-source projects in the Laravel and Vue communities.
 
-- 📫 How to reach me via email at paaqwesilowell@gmail.com or connect with me on LinkedIn at[![My LinkedIn Profile](https://www.google.com/url?sa=i&url=http%3A%2F%2Ft0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X&psig=AOvVaw3VOLDEa05EqFvXxzlj60Xt&ust=1719898215324000&source=images&cd=vfe&opi=89978449&ved=0CBQQ3YkBahcKEwjwtMqkj4WHAxUAAAAAHQAAAAAQBA)](https://www.linkedin.com/in/enoch-tetteh-b1b6371bb/)
+- 📫 How to reach me via email at paaqwesilowell@gmail.com or connect with me on LinkedIn at <a href="https://www.linkedin.com/in/enoch-tetteh-b1b6371bb/">
+    <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Ft0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X&psig=AOvVaw3VOLDEa05EqFvXxzlj60Xt&ust=1719898215324000&source=images&cd=vfe&opi=89978449&ved=0CBQQ3YkBahcKEwjwtMqkj4WHAxUAAAAAHQAAAAAQBA" alt="My LinkedIn Profile" width="200" height="200">
+</a>
 
 ### 💻 Technologies
 
