@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @paaqwesilowelltetteh
+# 👋 Hi, I’m Enoch Tetteh
 
 - 👀 I’m interested in web development, particularly using PHP, Laravel, Livewire, Nuxt, and Vue.js.
   
