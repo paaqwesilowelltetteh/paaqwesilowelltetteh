@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently learning advanced features in Laravel, Livewire components, and enhancing my skills in Nuxt and Vue.js.
 
-- How to reach me [mrenochtetteh@outlook.com](mrenochtetteh@outlook.com) or [paaqwesilowell@gmail.com](paaqwesilowell@gmail.com)
+- How to reach me: [mrenochtetteh@outlook.com](mrenochtetteh@outlook.com) or [paaqwesilowell@gmail.com](paaqwesilowell@gmail.com)
 
 - 📫 onnect with me on on my LinkedIn profile <a href="https://www.linkedin.com/in/enoch-tetteh-b1b6371bb/"><img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Ft0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X&psig=AOvVaw3VOLDEa05EqFvXxzlj60Xt&ust=1719898215324000&source=images&cd=vfe&opi=89978449&ved=0CBQQ3YkBahcKEwjwtMqkj4WHAxUAAAAAHQAAAAAQBA" alt="My LinkedIn Profile" width="15" height="15">
 </a>
