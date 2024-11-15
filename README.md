@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in web development, particularly using PHP, Laravel, Livewire, Nuxt, and Vue.js.
   
-- 🔭 I'm currently working on Pebble CMS, [Pebble Web](https://trypebble.com), Pebble API.
+- 🔭 I'm currently working on Pebble CMS, [Pebble Web](https://trypebble.com), Pebble API, Traceability API.
   
 - 🌱 I’m currently learning advanced features in Laravel, Livewire components, and enhancing my skills in Nuxt and Vue.js.
 
